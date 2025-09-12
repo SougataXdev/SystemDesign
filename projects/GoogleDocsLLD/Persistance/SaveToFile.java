@@ -1,6 +1,6 @@
-package GoogleDocsLLD.Persistance;
+package projects.GoogleDocsLLD.Persistance;
 
-import GoogleDocsLLD.Document;
+import projects.GoogleDocsLLD.Document;
 
 public class SaveToFile extends Persistance {
     

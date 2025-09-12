@@ -1,7 +1,7 @@
-package GoogleDocsLLD;
+package projects.GoogleDocsLLD;
 
-import GoogleDocsLLD.Persistance.SaveToDb;
-import GoogleDocsLLD.Persistance.SaveToFile;
+import projects.GoogleDocsLLD.Persistance.SaveToDb;
+import projects.GoogleDocsLLD.Persistance.SaveToFile;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package GoogleDocsLLD;
+package projects.GoogleDocsLLD;
 
 import java.util.ArrayList;
 
-import GoogleDocsLLD.DocumentElements.DocumentElement;
+import projects.GoogleDocsLLD.DocumentElements.DocumentElement;
 
 public class Document {
     private ArrayList<DocumentElement> list = new ArrayList<>();

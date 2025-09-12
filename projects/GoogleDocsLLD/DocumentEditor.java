@@ -1,8 +1,8 @@
-package GoogleDocsLLD;
+package projects.GoogleDocsLLD;
 
-import GoogleDocsLLD.DocumentElements.TextElement;
-import GoogleDocsLLD.DocumentElements.ImageElement;
-import GoogleDocsLLD.Persistance.Persistance;
+import projects.GoogleDocsLLD.DocumentElements.ImageElement;
+import projects.GoogleDocsLLD.DocumentElements.TextElement;
+import projects.GoogleDocsLLD.Persistance.Persistance;
 
 public class DocumentEditor {
     private final Document document;

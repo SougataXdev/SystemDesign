@@ -1,4 +1,4 @@
-package GoogleDocsLLD.DocumentElements;
+package projects.GoogleDocsLLD.DocumentElements;
 
 public class ImageElement extends DocumentElement {
     private String filepath;
